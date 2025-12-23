@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "Artines Lash Studio | Premium Lash Extensions in Satu Mare",
+    "description": "Enhance your natural beauty with expert lash extensions. Premium quality, natural results. Book your appointment in Satu Mare."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Portfolio",
+    "about": "About",
+    "testimonials": "Reviews",
+    "contact": "Contact",
+    "book": "Book Now"
+  },
+  "hero": {
+    "overline": "ARTINES LASH STUDIO",
+    "tagline": "Enhance Your Natural Beauty",
+    "title": "Artines",
+    "titleSuffix": "Lash Studio",
+    "subtitle": "Where precision meets artistry. Experience bespoke lash extensions crafted with care, using premium techniques for naturally stunning results.",
+    "cta": "Book Consultation",
+    "secondary": "View Portfolio"
+  },
+  "services": {
+    "overline": "SIGNATURE TREATMENTS",
+    "title": "Our Services",
+    "subtitle": "Tailored lash artistry designed to enhance your unique beauty",
+    "from": "from",
+    "currency": "RON",
+    "duration": "Duration",
+    "book": "Book Now",
+    "items": {
+      "classic": {
+        "name": "Classic Extensions",
+        "description": "One extension per natural lash for a naturally enhanced, elegant look. Perfect for first-timers seeking subtle sophistication.",
+        "duration": "2 hours"
+      },
+      "volume": {
+        "name": "Volume Extensions",
+        "description": "Multiple lightweight extensions per lash for fuller, more dramatic results while maintaining luxurious comfort.",
+        "duration": "2.5 hours"
+      },
+      "mega": {
+        "name": "Mega Volume",
+        "description": "Maximum fullness with ultra-fine extensions for the most dramatic, glamorous effect. Red carpet ready.",
+        "duration": "3 hours"
+      },
+      "lift": {
+        "name": "Lash Lift & Tint",
+        "description": "Enhance your natural lashes with a semi-permanent curl and color boost. Effortless elegance.",
+        "duration": "1 hour"
+      },
+      "refill": {
+        "name": "Maintenance Refill",
+        "description": "Maintain your perfect lashes with regular touch-ups. Keep your extensions looking impeccably fresh.",
+        "duration": "1-1.5 hours"
+      }
+    }
+  },
+  "gallery": {
+    "overline": "OUR ARTISTRY",
+    "title": "Portfolio",
+    "subtitle": "Witness the transformation - real results from our cherished clients",
+    "before": "Before",
+    "after": "After"
+  },
+  "about": {
+    "overline": "OUR STORY",
+    "title": "About Artines",
+    "subtitle": "Your trusted lash artist in Satu Mare",
+    "story": {
+      "title": "The Art of Lash Excellence",
+      "p1": "Artines Lash Studio was born from a passion for enhancing natural beauty through meticulous artistry. Located in the heart of Satu Mare, we've cultivated a loyal clientele who appreciate our unwavering dedication to quality and precision.",
+      "p2": "We specialize in the lash-by-lash technique - an artisan approach where each extension is individually applied to a single natural lash. This ensures a natural, comfortable fit that lasts longer and looks more authentic."
+    },
+    "quality": {
+      "title": "Premium Products",
+      "description": "We exclusively use professional-grade products from Tabya Lashes, Romania's leading brand. This ensures the highest quality, safety, and longevity for your extensions."
+    },
+    "technique": {
+      "title": "The Artines Difference",
+      "description": "Unlike volume techniques that can feel heavy, our classic approach provides a weightless feel while achieving beautiful, natural-looking results that enhance your unique beauty."
+    },
+    "stats": {
+      "clients": "Happy Clients",
+      "experience": "Years Experience",
+      "lashes": "Lashes Applied"
+    }
+  },
+  "testimonials": {
+    "overline": "CLIENT LOVE",
+    "title": "What Our Clients Say",
+    "subtitle": "Real stories from those who trust us with their beauty"
+  },
+  "contact": {
+    "overline": "GET IN TOUCH",
+    "title": "Book Your Appointment",
+    "subtitle": "Ready to enhance your natural beauty? We'd love to hear from you",
+    "form": {
+      "name": "Your Name",
+      "phone": "Phone Number",
+      "email": "Email (optional)",
+      "message": "Your Message",
+      "service": "Service of Interest",
+      "submit": "Send Message",
+      "success": "Message sent! We'll contact you soon.",
+      "error": "Something went wrong. Please try again."
+    },
+    "info": {
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "address": "Address",
+      "hours": "Working Hours"
+    },
+    "hours": {
+      "weekdays": "Monday - Friday",
+      "weekends": "Saturday",
+      "closed": "Sunday - Closed",
+      "time1": "9:00 - 19:00",
+      "time2": "10:00 - 16:00"
+    }
+  },
+  "footer": {
+    "tagline": "Enhance Your Natural Beauty",
+    "rights": "All rights reserved.",
+    "location": "Satu Mare, Romania",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us"
+  },
+  "cta": {
+    "ready": "Ready for Your Transformation?",
+    "description": "Book your consultation today and discover the Artines difference.",
+    "button": "Book Now"
+  }
+}

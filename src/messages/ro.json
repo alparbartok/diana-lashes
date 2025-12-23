@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "title": "Artines Lash Studio | Extensii Gene Premium in Satu Mare",
+    "description": "Pune-ti in valoare frumusetea naturala cu extensii gene de calitate. Rezultate premium, aspect natural. Programeaza-te in Satu Mare."
+  },
+  "nav": {
+    "home": "Acasa",
+    "services": "Servicii",
+    "gallery": "Portofoliu",
+    "about": "Despre Noi",
+    "testimonials": "Recenzii",
+    "contact": "Contact",
+    "book": "Programeaza-te"
+  },
+  "hero": {
+    "overline": "ARTINES LASH STUDIO",
+    "tagline": "Pune-ti in Valoare Frumusetea Naturala",
+    "title": "Artines",
+    "titleSuffix": "Lash Studio",
+    "subtitle": "Unde precizia intalneste arta. Experimenteaza extensii gene personalizate, create cu grija, folosind tehnici premium pentru rezultate natural uimitoare.",
+    "cta": "Programeaza Consultatie",
+    "secondary": "Vezi Portofoliul"
+  },
+  "services": {
+    "overline": "TRATAMENTE SIGNATURE",
+    "title": "Serviciile Noastre",
+    "subtitle": "Arta extensiilor gene conceputa pentru a-ti pune in valoare frumusetea unica",
+    "from": "de la",
+    "currency": "RON",
+    "duration": "Durata",
+    "book": "Programeaza-te",
+    "items": {
+      "classic": {
+        "name": "Extensii Clasice",
+        "description": "O extensie per geana naturala pentru un aspect natural si elegant. Perfect pentru cele care cauta rafinament subtil.",
+        "duration": "2 ore"
+      },
+      "volume": {
+        "name": "Extensii Volum",
+        "description": "Mai multe extensii usoare per geana pentru rezultate mai pline si dramatice, mentinand confortul luxos.",
+        "duration": "2.5 ore"
+      },
+      "mega": {
+        "name": "Mega Volum",
+        "description": "Volum maxim cu extensii ultra-fine pentru cel mai dramatic si glamuros efect. Pregatita pentru covorul rosu.",
+        "duration": "3 ore"
+      },
+      "lift": {
+        "name": "Lash Lift & Vopsit",
+        "description": "Imbunatateste genele naturale cu o ondulare semi-permanenta si un plus de culoare. Eleganta fara efort.",
+        "duration": "1 ora"
+      },
+      "refill": {
+        "name": "Intretinere",
+        "description": "Mentine genele perfecte cu retusuri regulate. Pastreaza extensiile impecabil de proaspete.",
+        "duration": "1-1.5 ore"
+      }
+    }
+  },
+  "gallery": {
+    "overline": "ARTA NOASTRA",
+    "title": "Portofoliu",
+    "subtitle": "Fii martora transformarii - rezultate reale de la clientele noastre dragi",
+    "before": "Inainte",
+    "after": "Dupa"
+  },
+  "about": {
+    "overline": "POVESTEA NOASTRA",
+    "title": "Despre Artines",
+    "subtitle": "Artistul tau de incredere pentru gene din Satu Mare",
+    "story": {
+      "title": "Arta Excelentei in Gene",
+      "p1": "Artines Lash Studio s-a nascut din pasiunea de a pune in valoare frumusetea naturala prin maiestrie meticuloasa. Situati in inima orasului Satu Mare, am cultivat o clientela fidela care apreciaza dedicarea noastra neconditionata pentru calitate si precizie.",
+      "p2": "Ne specializam in tehnica geana cu geana - o abordare artizanala in care fiecare extensie este aplicata individual pe o singura geana naturala. Aceasta asigura un aspect natural, confortabil, care dureaza mai mult si arata mai autentic."
+    },
+    "quality": {
+      "title": "Produse Premium",
+      "description": "Folosim exclusiv produse de calitate profesionala de la Tabya Lashes, brandul lider din Romania. Aceasta asigura cea mai inalta calitate, siguranta si longevitate pentru extensiile tale."
+    },
+    "technique": {
+      "title": "Diferenta Artines",
+      "description": "Spre deosebire de tehnicile de volum care pot parea grele, abordarea noastra clasica ofera o senzatie de usurinta, obtinand rezultate frumoase, naturale, care iti pun in valoare frumusetea unica."
+    },
+    "stats": {
+      "clients": "Clienti Fericiti",
+      "experience": "Ani Experienta",
+      "lashes": "Gene Aplicate"
+    }
+  },
+  "testimonials": {
+    "overline": "DRAGOSTEA CLIENTELOR",
+    "title": "Ce Spun Clientele Noastre",
+    "subtitle": "Povesti reale de la cele care ne incredinteaza frumusetea lor"
+  },
+  "contact": {
+    "overline": "IA LEGATURA",
+    "title": "Programeaza-ti Intalnirea",
+    "subtitle": "Pregatita sa-ti pui in valoare frumusetea naturala? Ne-ar placea sa te cunoastem",
+    "form": {
+      "name": "Numele Tau",
+      "phone": "Numar de Telefon",
+      "email": "Email (optional)",
+      "message": "Mesajul Tau",
+      "service": "Serviciul Dorit",
+      "submit": "Trimite Mesaj",
+      "success": "Mesaj trimis! Te vom contacta in curand.",
+      "error": "Ceva nu a mers bine. Te rugam incearca din nou."
+    },
+    "info": {
+      "phone": "Telefon",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "address": "Adresa",
+      "hours": "Program"
+    },
+    "hours": {
+      "weekdays": "Luni - Vineri",
+      "weekends": "Sambata",
+      "closed": "Duminica - Inchis",
+      "time1": "9:00 - 19:00",
+      "time2": "10:00 - 16:00"
+    }
+  },
+  "footer": {
+    "tagline": "Pune-ti in Valoare Frumusetea Naturala",
+    "rights": "Toate drepturile rezervate.",
+    "location": "Satu Mare, Romania",
+    "quickLinks": "Linkuri Rapide",
+    "followUs": "Urmareste-ne"
+  },
+  "cta": {
+    "ready": "Pregatita pentru Transformare?",
+    "description": "Programeaza-ti consultatia astazi si descopera diferenta Artines.",
+    "button": "Programeaza-te Acum"
+  }
+}
